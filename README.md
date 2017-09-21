@@ -1,0 +1,2 @@
+# MedRand.jl
+Mendelian Randomization
